@@ -3,20 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package oca;
+package Tag_03_12_18;
 
 /**
  *
  * @author Moe
  */
-public class OCA {
-
-    /**
-     * @param args the command line arguments
-     */
+public class Test01 {
     public static void main(String[] args) {
-        // TODO code application logic here
-        System.out.println("TTT");
+        System.out.println("SDSD");
     }
-    
 }
