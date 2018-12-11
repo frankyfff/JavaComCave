@@ -15,8 +15,16 @@ public class OCAKlausur {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
-        System.out.println("GG");
+        try {
+            int num = 10;
+            int div = 0;
+            int ans = num / div;
+        } catch (ArithmeticException ae) {
+            //ans = 0;
+        } catch (Exception e) {
+            System.out.println("Invalid calculation");
+        }
+        //System.out.println("Answer = " + ans);
     }
     
 }
