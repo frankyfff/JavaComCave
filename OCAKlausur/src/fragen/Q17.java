@@ -1,3 +1,5 @@
+package fragen;
+
 
 import sun.applet.Main;
 
