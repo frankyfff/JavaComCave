@@ -3,17 +3,15 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ocaklausur;
+package testpackage;
 
 /**
  *
- * @author Moe
+ * @author mamiri
  */
-public class OCAKlausur {
-
-    /**
-     * @param args the command line arguments
-     */
-   
-    
+public class Acc {
+    int p;
+    private int q;
+    protected int r;
+    public int s;
 }
