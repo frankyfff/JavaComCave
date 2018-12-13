@@ -1,4 +1,4 @@
-package fragen;
+package klausur.fragen;
 
 
 import sun.applet.Main;

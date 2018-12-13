@@ -1,5 +1,5 @@
 
-package fragen;
+package klausur.fragen;
 
 
 public class Q25 {
