@@ -1,5 +1,5 @@
 
-package klausur.fragen;
+package klausur.fragen.a001_a050;
 public class Q11 {
     public static void main(String[] args) {
         Book book1 = new EBook();

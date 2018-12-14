@@ -1,5 +1,5 @@
 
-package klausur.fragen;
+package klausur.fragen.b051_b100;
 
 public class Q75 {
   

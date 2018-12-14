@@ -1,4 +1,4 @@
-package klausur.fragen;
+package klausur.fragen.a001_a050;
 
 
 import sun.applet.Main;

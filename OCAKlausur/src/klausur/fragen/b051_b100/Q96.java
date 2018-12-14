@@ -1,4 +1,4 @@
-package klausur.fragen;
+package klausur.fragen.b051_b100;
 
 class A {
 

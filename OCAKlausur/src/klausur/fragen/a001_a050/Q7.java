@@ -1,4 +1,4 @@
-package klausur.fragen;
+package klausur.fragen.a001_a050;
 
 public class Q7 {
 

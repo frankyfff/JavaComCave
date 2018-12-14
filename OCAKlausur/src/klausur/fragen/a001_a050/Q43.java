@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package klausur.fragen;
+package klausur.fragen.a001_a050;
 
 import testpackage.Acc;
 

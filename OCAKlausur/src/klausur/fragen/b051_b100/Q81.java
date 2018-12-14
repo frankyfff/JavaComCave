@@ -1,4 +1,4 @@
-package klausur.fragen;
+package klausur.fragen.b051_b100;
 
 /*
  * To change this license header, choose License Headers in Project Properties.
