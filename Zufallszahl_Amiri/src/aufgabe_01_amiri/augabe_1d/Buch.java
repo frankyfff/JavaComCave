@@ -5,20 +5,28 @@
  */
 package aufgabe_01_amiri.augabe_1d;
 
+import java.util.ArrayList;
+
 /**
  *
  * @author Moe
  */
 public class Buch {
 
-    private String titel;
-    private double isbn;
-    private String author;
+    private static String titel;
+    private static double isbn;
+    private static String author;
+    private ArrayList<Buch> bibliothek;
 
-    public Buch(String author, double isnb, String titel) {
+    private Buch(String author, double isnb, String titel) {
         this.author = author;
         this.isbn = isnb;
         this.titel = titel;
+    }
+
+    public static void addBook(ArrayList<Buch> buch) {
+        new Buch(author, isbn, titel);
+       
     }
 
     public void infoBook() {

@@ -14,21 +14,25 @@ import java.util.ArrayList;
 public class BuchTest {
 
     public static void main(String[] args) {
-        Buch buch1 = new Buch("Steven King", 314254, "Es");
-        Buch buch2 = new Buch("Gustav Bergmann", 34546, "Geld stinkt nicht!");
+//        Buch buch1 = new Buch("Steven King", 314254, "Es");
+//        Buch buch2 = new Buch("Gustav Bergmann", 34546, "Geld stinkt nicht!");
+//
+//        ArrayList<Buch> bibliothek = new ArrayList<Buch>();
+//        bibliothek.add(buch1);
+//        bibliothek.add(buch2);
+//
+//        for (Buch buch : bibliothek) {
+//            buch.infoBook();
+//        }
+//
+//        bibliothek.remove(buch2);
+//
+//        for (Buch buch : bibliothek) {
+//            buch.infoBook();
+//        }
+    
 
-        ArrayList<Buch> bibliothek = new ArrayList<Buch>();
-        bibliothek.add(buch1);
-        bibliothek.add(buch2);
-
-        for (Buch buch : bibliothek) {
-            buch.infoBook();
-        }
-
-        bibliothek.remove(buch2);
-
-        for (Buch buch : bibliothek) {
-            buch.infoBook();
-        }
+      //  Buch.addBook();
+        
     }
 }
