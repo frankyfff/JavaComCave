@@ -12,7 +12,7 @@ public class Q39 {
 }
 
 
-/*
+/* //Nochmal Gedankengang durchführen!
 And given the commands:
 javac Test.java
 java Test Hello
