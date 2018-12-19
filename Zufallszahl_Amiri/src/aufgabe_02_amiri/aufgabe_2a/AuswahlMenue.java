@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package aufgaeb_02_amiri.aufgabe_2a;
+package aufgabe_02_amiri.aufgabe_2a;
 
 import javax.swing.JOptionPane;
 
