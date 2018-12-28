@@ -26,8 +26,8 @@ public class Q94 {
     }
 
     public Q94(String name, int age, int salary) {
-        this(name, age);
         setSalary(salary);
+        this(name, age);
     }
 
     public String getName() {
@@ -63,11 +63,11 @@ public class Q94 {
 class Test {
 
     public static void main(String[] args) {
-//        Q94 q1 = new Q94();
+        Q94 q1 = new Q94();
         Q94 q2 = new Q94("Jack", 50);
         Q94 q3 = new Q94("Chole", 40, 5000);
 
-     //   q1.printDetails();
+        q1.printDetails();
         q2.printDetails();
         q3.printDetails();
     }

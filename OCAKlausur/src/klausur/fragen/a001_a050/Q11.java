@@ -13,7 +13,10 @@ interface Readable {
 }
 
 abstract class Book implements Readable {
-    public void readBook() {
+//    public void readBook() {
+//    }
+    
+    public void setBookMark(){
     }
     
 }

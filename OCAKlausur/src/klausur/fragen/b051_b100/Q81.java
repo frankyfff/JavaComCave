@@ -22,6 +22,6 @@ public class Q81 {
         } catch (Exception e) {
             System.out.println("Invalid calculation");
         }
-        //System.out.println("Answer = " + ans);
+        System.out.println("Answer = " + ans);
     }
 }

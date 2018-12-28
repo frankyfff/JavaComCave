@@ -13,9 +13,11 @@ public class Q70 {
 
     public static void main(String[] args) {
         // line n1
-         Byte x=1;
-        // short x=1;
-        // Integer x= new Integer("1");
+//         Byte x=1;
+//         short x=1;
+//         Integer x= new Integer("1");
+    
+     
         switch(x) {
             
             case 1:

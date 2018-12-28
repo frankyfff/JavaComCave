@@ -21,7 +21,7 @@ public class Q114 {
 
             if (e != key) {
                 continue;
-             // count++;
+              count++;
                 
             }
         }

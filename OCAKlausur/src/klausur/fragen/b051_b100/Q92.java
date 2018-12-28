@@ -53,29 +53,17 @@ class WildAnimal extends Animal {
 
 }
 
-
 /**
- *      Which two modification enalbe the code to print the following output?
- *      Canine 60 Long
- *      Feline 80 Short
- * 
- *      a) Replace line n1 with:
- *         super();
- *         this.bounds = bounds;
- * 
- *      b) Replace line n1 with;
- *         this.bounds = bounds;
- *         super();
- * 
- *      c) Replace line n2 with;
- *         super(type, maxSpeed);
- *         this(bounds);
- * 
- *      d) Replace line n1 with;
- *         this("Canine", 60);
- *         this.bounds = bounds;
- * 
- *      e) Replace line n2 with;
- *         super(type, maxSpeed);
- *         this.bounds = bounds;
+ * Which two modification enalbe the code to print the following output? Canine
+ * 60 Long Feline 80 Short
+ *
+ * a) Replace line n1 with: super(); this.bounds = bounds;
+ *
+ * b) Replace line n1 with; this.bounds = bounds; super();
+ *
+ * c) Replace line n2 with; super(type, maxSpeed); this(bounds);
+ *
+ * d) Replace line n1 with; this("Canine", 60); this.bounds = bounds;
+ *
+ * e) Replace line n2 with; super(type, maxSpeed); this.bounds = bounds;
  */
