@@ -9,7 +9,7 @@ package klausur.fragen.a001_a050;
  *
  * @author Moe
  */
-public class Q9 {
+public class Q09 {
 
     ElectricAccount ea = new ElectricAccount();
 

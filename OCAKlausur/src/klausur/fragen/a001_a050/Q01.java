@@ -9,7 +9,7 @@ package klausur.fragen.a001_a050;
  *
  * @author mamiri
  */
-public class Q1 {
+public class Q01 {
     
     public void updatePrice(Product product, double price){
         price = price * 2;
@@ -20,7 +20,7 @@ public class Q1 {
         prt.price = 200;
         double newPrice = 100;
         
-        Q1 q = new Q1();
+        Q01 q = new Q01();
         q.updatePrice(prt, newPrice);
         System.out.println(prt.price + " : " + newPrice);
     }

@@ -11,7 +11,7 @@ import java.util.ArrayList;
  *
  * @author mamiri
  */
-public class Q2 {
+public class Q02 {
 
     public static void main(String[] args) {
         ArrayList<Vehiclee> myList = new ArrayList<>();

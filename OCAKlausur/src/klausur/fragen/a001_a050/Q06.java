@@ -9,7 +9,7 @@ package klausur.fragen.a001_a050;
  *
  * @author Moe
  */
-public class Q6 {
+public class Q06 {
     public static void main(String[] args) {
         Earth earth = new Earth();
         earth.revlove();

@@ -7,8 +7,8 @@ package klausur.fragen.b051_b100;
 
 /**
  *
- * @author mamiri
+ * @author Moe
  */
-public class Q36 {
+public class Q51 {
     
 }
