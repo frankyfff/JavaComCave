@@ -5,7 +5,6 @@ package klausur.fragen.b051_b100;
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-
 /**
  *
  * @author mamiri
@@ -18,7 +17,6 @@ public class Q94 {
 
 //    public Q94() {
 //    }
-
     public Q94(String name, int age) {
         setName(name);
         setAge(age);
@@ -26,8 +24,11 @@ public class Q94 {
     }
 
     public Q94(String name, int age, int salary) {
-        setSalary(salary);
+
         this(name, age);
+        setSalary(salary);
+        
+
     }
 
     public String getName() {
@@ -63,11 +64,10 @@ public class Q94 {
 class Test {
 
     public static void main(String[] args) {
-        Q94 q1 = new Q94();
+
         Q94 q2 = new Q94("Jack", 50);
         Q94 q3 = new Q94("Chole", 40, 5000);
 
-        q1.printDetails();
         q2.printDetails();
         q3.printDetails();
     }
